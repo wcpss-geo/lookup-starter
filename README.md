@@ -6,6 +6,17 @@ This repository contains the starter files for creating a standard autocomplete-
 
 ## Getting Started
 
+### Create a new GitHub repository from template
+
+*Note: This requires being a member of the wcpss-geo GitHub organization.*
+
+1. Navigate to [https://github.com/wcpss-geo](https://github.com/wcpss-geo)
+2. Click the green button to create a new repository.
+3. On the *Create new repository* page, find **wcpss-geo/lookup-starter** in the *Repository template* dropdown and select.
+4. Continue as usual with creating your new repository making sure to assign ownership to the proper user/organization and to give the repository a unique name.
+
+### Create locally
+
 1. Download the .zip file of this repo.
 2. Extract the files onto your computer somewhere where you want to do your development.
 3. Rename the parent directory containing all the starter files to something meaninful.
